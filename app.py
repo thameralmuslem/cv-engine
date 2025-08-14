@@ -1,4 +1,4 @@
-<APP_CODE_PLACEHOLDER>
+
 """
 Freelancer CV Collector & Analyzer — Streamlit App (Cloud-friendly)
 ===================================================================
